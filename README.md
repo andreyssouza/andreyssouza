@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-Eu sou o Andrey Souza, sou um Programador Front End, atualmente estou aprendendo e criando projetos com HTML, CSS e iniciando o aprendizado de JavaScript e React.
+I'm **Andrey Souza**, a software development student focused on creating clean and responsive interfaces.
+
+Currently, I'm learning and developing projects using **HTML, CSS, and JavaScript**, as well as **React** and **Node.js**, through the Code Club course. I'm also in the final semester of a **Technology Degree in Systems Analysis and Development**.
+
 <br>
 <br>
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
