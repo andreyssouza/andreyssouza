@@ -4,7 +4,7 @@ Sou **Andrey Schwantes de Souza**, desenvolvedor apaixonado por tecnologia com f
 
 ## 🚀 Sobre Mim
 
-- 💻 Desenvolvedor Full Stack com experiência em **JavaScript**, **React**, **Node.js**
+- 💻 Desenvolvedor Full Stack com experiência em **JavaScript**, **React** e **Node.js**
 - 🎯 Entusiasta de projetos desafiadores e aprendizado contínuo
 - 🛠️ Criador de APIs, aplicações web e sistemas de gerenciamento
 - 📚 Sempre explorando novas tecnologias e melhores práticas
